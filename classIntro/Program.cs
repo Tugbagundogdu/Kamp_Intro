@@ -22,6 +22,7 @@ namespace classIntro
             kurs3.KursAdi = "C++";
             kurs3.İzlenmeOrani = 70;
 
+
            
 
             class Kurs
